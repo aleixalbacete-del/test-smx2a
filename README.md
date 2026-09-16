@@ -1,9 +1,9 @@
 # REPO test-smx2a
 ## repositori de prova aleix albacete
 
-  - Llista
-  - de
-  - items
+  * Llista
+  * de
+  * items
 
 ## h2
 ### h3
